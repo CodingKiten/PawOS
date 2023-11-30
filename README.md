@@ -1,2 +1,3 @@
 # PawOS
-Super Cool web os
+Cool WebOS made by:
+## CodingKitten
